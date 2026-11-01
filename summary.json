@@ -1,4 +1,14 @@
 {
+  "app": {
+    "asset": "RogueHeroes-437979.apk",
+    "minVersionCode": 0,
+    "notes": "Rogue Heroes CDN: thin APK, downloadable content and in-app updates.",
+    "sha256": "7d583d03c903726b11787305ee69cc850ce6604ededab77a416e94dfec52fe5c",
+    "size": 249209307,
+    "tag": "app-437979",
+    "versionCode": 437979,
+    "versionName": "dev 437979"
+  },
   "contentVersion": 11051,
   "manifest": {
     "asset": "AssetPathsManifest-11051",
@@ -19,7 +29,7 @@
       "size": 84679589
     }
   },
-  "published": "2026-11-01T02:55:56+00:00",
+  "published": "2026-11-01T03:46:28+00:00",
   "repo": "10buttonmushrooms/rogueheroes-content",
   "schema": 1
 }
