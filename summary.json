@@ -1,0 +1,25 @@
+{
+  "contentVersion": 11051,
+  "manifest": {
+    "asset": "AssetPathsManifest-11051",
+    "md5": "0cd15f6a58f3f28f8822c6294bbca425",
+    "size": 1841949
+  },
+  "packs": {
+    "pack-0001.bin": {
+      "size": 209348683
+    },
+    "pack-0002.bin": {
+      "size": 207784156
+    },
+    "pack-0003.bin": {
+      "size": 209018824
+    },
+    "pack-0004.bin": {
+      "size": 84679589
+    }
+  },
+  "published": "2026-11-01T02:55:56+00:00",
+  "repo": "10buttonmushrooms/rogueheroes-content",
+  "schema": 1
+}
