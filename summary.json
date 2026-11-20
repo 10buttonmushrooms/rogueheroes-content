@@ -1,13 +1,13 @@
 {
   "app": {
-    "asset": "RogueHeroes-464706.apk",
+    "asset": "RogueHeroes-466226.apk",
     "minVersionCode": 0,
     "notes": "",
-    "sha256": "2e1dbd3f220cbb03453f89215022d46d983bf87b3ed9947b56453af1265f5336",
-    "size": 87384761,
-    "tag": "app-464706",
-    "versionCode": 464706,
-    "versionName": "build 464706"
+    "sha256": "04e9965d99995c07aa64b06a2cbf93a7d85daa82eb36b8df5b9ba50b7c00e0a7",
+    "size": 78251448,
+    "tag": "app-466226",
+    "versionCode": 466226,
+    "versionName": "build 466226"
   },
   "contentVersion": 11096,
   "manifest": {
@@ -44,7 +44,7 @@
       "size": 16407302
     }
   },
-  "published": "2026-11-20T18:25:07+00:00",
+  "published": "2026-11-20T19:37:23+00:00",
   "repo": "10buttonmushrooms/rogueheroes-content",
   "schema": 1
 }
