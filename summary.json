@@ -9,10 +9,10 @@
     "versionCode": 464706,
     "versionName": "build 464706"
   },
-  "contentVersion": 11090,
+  "contentVersion": 11092,
   "manifest": {
-    "asset": "AssetPathsManifest-11090",
-    "md5": "24ea23ec289aa4c52e1c72c4acfcef5c",
+    "asset": "AssetPathsManifest-11092",
+    "md5": "8e67d140aa03f9955b17e6976dfc6de8",
     "size": 1940490
   },
   "packs": {
@@ -33,9 +33,12 @@
     },
     "pack-0006.bin": {
       "size": 29774867
+    },
+    "pack-0007.bin": {
+      "size": 4658932
     }
   },
-  "published": "2026-11-19T17:07:57+00:00",
+  "published": "2026-11-20T00:59:17+00:00",
   "repo": "10buttonmushrooms/rogueheroes-content",
   "schema": 1
 }
